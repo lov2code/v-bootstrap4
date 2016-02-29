@@ -126,12 +126,6 @@ The plugin has Glyphicon and Fontawesome support.
 ## Typography
 
 - `lead`: Lead class `<p class="lead">`
-- `h1-`: Heading 1 `<h1>Text {<small>optional</small>}</h1>`
-- `h2-`: Heading 2 `<h2>Text {<small>optional</small>}</h2>`
-- `h3-`: Heading 3 `<h3>Text {<small>optional</small>}</h3>`
-- `h4-`: Heading 4 `<h4>Text {<small>optional</small>}</h4>`
-- `h5-`: Heading 5 `<h5>Text {<small>optional</small>}</h5>`
-- `h6-`: Heading 6 `<h6>Text {<small>optional</small>}</h6>`
 - `initialism`: Generates "initialism" text
 - `blockquote-reverse`: Generates reverse blockquote
 - `dl-horizontal`
