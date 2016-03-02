@@ -1,6 +1,6 @@
 {
   "name": "v-bootstrap4",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Bootstrap 4 Support with snippets and autocompletion. Supports Glyphicons, Fontawesome and Octicons",
   "keywords": [
     "bootstrap 4",
