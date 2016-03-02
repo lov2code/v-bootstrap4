@@ -1,9 +1,0 @@
-'.text.html':
-
-  'Initialism':
-    'prefix': 'initialism'
-    'body': '<abbr title="$1" class="initialism">$2</abbr>'
-
-  'Lead':
-    'prefix': 'lead'
-    'body': '<p class="lead">$0</p>'

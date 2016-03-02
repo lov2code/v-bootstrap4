@@ -1,0 +1,19 @@
+'.text.html':
+
+  'Glyphicon':
+    'prefix': 'glyphicon'
+    'body': """
+    <span class="glyphicon glyphicon-$1"></span>
+    """
+
+  'Octicons':
+    'prefix': 'octicon'
+    'body': """
+    <span class="${1:mega-}octicon octicon-$2"></span>$0
+    """
+
+  'Fontawesome Icon':
+    'prefix': 'fa'
+    'body': """
+    <i class="fa fa-$1"></i>
+    """
