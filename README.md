@@ -11,17 +11,13 @@ Key Features:
 
   - Supports autocompletion of all helper classes in JavaScript, CSS and HTML
   - Snippet support for all components.
-  - Autocompletion for **Glyphicons**, **Fontawesome** and **Octicons**
+  - Autocompletion for **[Glyphicons][2]**, **[Fontawesome][3]** and **[Octicons][4]**
 
 Version:
   - Bootstrap v4.0.0-alpha.2
   - Font Awesome 4.5.0
   - Glyphicons
   - Octicons
-
-An example with [HTML Preview][2]
-
-![Atom HTML Preview with Bootstrap](https://dl.dropboxusercontent.com/u/20947008/webbox/atom/atom-bootstrap-3.gif)
 
 ## Templates
 
@@ -41,5 +37,7 @@ The plugin has Glyphicon and Fontawesome support.
   - `fa`: Generates fontawesome icon snippet
   - `oi`: Generates octicon snippet
 
-[1]: hhttp://v4-alpha.getbootstrap.com/
-[2]: http://atom.io/packages/atom-html-preview
+[1]: http://v4-alpha.getbootstrap.com/
+[2]: http://glyphicons.com/
+[3]: https://fortawesome.github.io/Font-Awesome/
+[4]: https://octicons.github.com/
