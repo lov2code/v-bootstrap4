@@ -1,6 +1,8 @@
-'.text.html, .text.css':
+'.text.html, .text.css, .text.less, .text.scss':
   'editor':
     'completions': [
+
+      # v4.5.0
       'fa-lg'
       'fa-2x'
       'fa-3x'

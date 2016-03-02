@@ -16,9 +16,13 @@ Key Features:
 Version:
 
   - Bootstrap v4.0.0-alpha.2
-  - Font Awesome 4.5.0
+  - Font Awesome v4.5.0
   - Glyphicons
-  - Octicons
+    * 800 GLYPHICONS
+    * 300 GLYPHICONS Halflings
+    * 140 GLYPHICONS Filetypes
+    * 70 GLYPHICONS Social
+  - Octicons v3.5.0
 
 ## Templates
 
@@ -34,9 +38,24 @@ All components also have autocompletion support for extra options.
 
 The plugin has Glyphicon and Fontawesome support.
 
-  - `icon`: Generates glyphicon icon snippet
+  - `gly`: Generates glyphicon icon snippet
+  - `gly-h`: Generates glyphicon halflings icon snippet
+  - `gly-s`: Generates glyphicon social icon snippet
+  - `gly-f`: Generates glyphicon filetypes icon snippet
   - `fa`: Generates fontawesome icon snippet
   - `oi`: Generates octicon snippet
+
+### Grid
+
+  * `con`: Generates container: `<div class="container"></div>`
+  * `conf`: Generates fluid container: `<div class="container-fluid"></div>`
+  * `row`: Generates column container: `<div class="row"></div>`
+  * `col-`: Generates column: `<div class="col-..."></div>`
+  * `col-xs`: Generates extra small column: `<div class="col-xs-..."></div>`
+  * `col-sm`: Generates small column: `<div class="col-sm-..."></div>`
+  * `col-md`: Generates medium column: `<div class="col-md-..."></div>`
+  * `col-lg`: Generates large column: `<div class="col-lg-..."></div>`
+  * `col-xl`: Generates extra large column: `<div class="col-xl-..."></div>`
 
 [1]: http://v4-alpha.getbootstrap.com/
 [2]: http://glyphicons.com/
