@@ -14,6 +14,7 @@ Key Features:
   - Autocompletion for **[Glyphicons][2]**, **[Fontawesome][3]** and **[Octicons][4]**
 
 Version:
+
   - Bootstrap v4.0.0-alpha.2
   - Font Awesome 4.5.0
   - Glyphicons

@@ -1,12 +1,13 @@
 {
   "name": "v-bootstrap4",
   "version": "0.1.2",
-  "description": "Bootstrap 4 hổ trợ tạo mã nhanh và tự hoàn thành mã. Hổ trợ Glyphicons, Octicons và Fontawesome",
+  "description": "Bootstrap 4 Support with snippets and autocompletion. Supports Glyphicons, Fontawesome and Octicons",
   "keywords": [
     "bootstrap 4",
     "bootstrap",
     "fontawesome",
-    "glyphicons"
+    "glyphicons",
+    "octicons"
   ],
   "repository": "https://github.com/thevuong/v-bootstrap4",
   "license": "MIT",
