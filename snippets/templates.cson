@@ -24,7 +24,6 @@
     </body>
 
     </html>
-
     """
 
   'Minimal HTML Template (No Comment)':
@@ -49,7 +48,6 @@
     </body>
 
     </html>
-
     """
 
   'HTML Template (Using Octicons by GitHub)':
