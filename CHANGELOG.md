@@ -1,3 +1,17 @@
+## 0.1.6 - Update Components
+* Figures
+  * `figure-`
+* Images
+  * `img-`
+* Typography
+  * `text-muted`
+  * `display`
+  * `lead`
+  * `blockquote-`
+  * `list-uns`
+  * `list-inline`
+  * `dl-horizontal`
+
 ## 0.1.5 - Update Components
 * Alert
   * `alert`
