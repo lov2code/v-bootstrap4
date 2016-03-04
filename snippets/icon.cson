@@ -3,7 +3,7 @@
   'Glyphicon':
     'prefix': 'gly'
     'body': """
-    <span class="glyphicon glyphicon-$1"></span>
+    <span class="glyphicons glyphicons-$1"></span>
     """
 
   'Glyphicon Halflings':
