@@ -18,9 +18,7 @@
   'Lead':
     'prefix': 'lead'
     'body': """
-    <p class="lead">
-      ${1:Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.}
-    </p>
+    <p class="lead">${1:Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.}</p>
     """
 
   'Blockquotes':
