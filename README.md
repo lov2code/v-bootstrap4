@@ -11,18 +11,17 @@ Key Features:
 
   - Supports autocompletion of all helper classes in JavaScript, CSS and HTML
   - Snippet support for all components.
-  - Autocompletion for **[Glyphicons][2]**, **[Fontawesome][3]** and **[Octicons][4]**
+  - Autocompletion for **[Glyphicons][2]** and **[Fontawesome][3]**
 
 Version:
 
-  - Bootstrap v4.0.0-alpha.2
-  - Font Awesome v4.5.0
+  - Bootstrap v4.0.0-beta.2
+  - Font Awesome v4.7.0
   - Glyphicons
     * 800 GLYPHICONS
     * 300 GLYPHICONS Halflings
     * 140 GLYPHICONS Filetypes
     * 70 GLYPHICONS Social
-  - Octicons v3.5.0
 
 ## Templates
 
@@ -60,4 +59,3 @@ The plugin has Glyphicon and Fontawesome support.
 [1]: http://v4-alpha.getbootstrap.com/
 [2]: http://glyphicons.com/
 [3]: https://fortawesome.github.io/Font-Awesome/
-[4]: https://octicons.github.com/
