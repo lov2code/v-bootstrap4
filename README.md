@@ -50,7 +50,6 @@ The plugin has Glyphicon and Fontawesome support.
   * `conf`: Generates fluid container: `<div class="container-fluid"></div>`
   * `row`: Generates column container: `<div class="row"></div>`
   * `col-`: Generates column: `<div class="col-..."></div>`
-  * `col-xs`: Generates extra small column: `<div class="col-xs-..."></div>`
   * `col-sm`: Generates small column: `<div class="col-sm-..."></div>`
   * `col-md`: Generates medium column: `<div class="col-md-..."></div>`
   * `col-lg`: Generates large column: `<div class="col-lg-..."></div>`
