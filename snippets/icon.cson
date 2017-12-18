@@ -24,12 +24,6 @@
     <span class="filetypes filetypes-$1"></span>
     """
 
-  'Octicons':
-    'prefix': 'oi'
-    'body': """
-    <span class="${1:mega-}octicon octicon-$2"></span>$0
-    """
-
   'Fontawesome Icon':
     'prefix': 'fa'
     'body': """
