@@ -1,6 +1,8 @@
-# Bootstrap 4 Support for Atom
+#THIS IS COPIED FROM @thevuong s amazing coding for the Bootstrap 4 version. This is simply an update on their work. Thanks!! It is a work in progress. Wait for update that is complete for installation. 
 
-Provides [Bootstrap 4][1] classes and HTML tags with autocompletion features.
+# Bootstrap 5.1 Support for Atom
+
+Provides [Bootstrap 5][1] classes and HTML tags with autocompletion features.
 
 Install:
 ```ssh
@@ -15,7 +17,7 @@ Key Features:
 
 Version:
 
-  - Bootstrap v4.0.0-beta.2
+  - Bootstrap v5.1.0-beta.2
   - Font Awesome v4.7.0
   - Glyphicons
     * 800 GLYPHICONS
@@ -49,12 +51,12 @@ The plugin has Glyphicon and Fontawesome support.
   * `con`: Generates container: `<div class="container"></div>`
   * `conf`: Generates fluid container: `<div class="container-fluid"></div>`
   * `row`: Generates column container: `<div class="row"></div>`
-  * `col-`: Generates column: `<div class="col-..."></div>`
+  * `col`: Generates column: `<div class="col"></div>`
   * `col-sm`: Generates small column: `<div class="col-sm-..."></div>`
   * `col-md`: Generates medium column: `<div class="col-md-..."></div>`
   * `col-lg`: Generates large column: `<div class="col-lg-..."></div>`
   * `col-xl`: Generates extra large column: `<div class="col-xl-..."></div>`
 
-[1]: http://v4-alpha.getbootstrap.com/
+[1]: https://getbootstrap.com/docs/5.1/
 [2]: http://glyphicons.com/
 [3]: https://fortawesome.github.io/Font-Awesome/
